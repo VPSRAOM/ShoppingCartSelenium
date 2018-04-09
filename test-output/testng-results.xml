@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61155" started-at="2018-04-09T22:02:02Z" finished-at="2018-04-09T22:03:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61155" started-at="2018-04-09T22:02:02Z" finished-at="2018-04-09T22:03:03Z">
+      <class name="bradytest.Shopping">
+        <test-method status="PASS" signature="setup()[pri:0, instance:bradytest.Shopping@21a06946]" name="setup" is-config="true" duration-ms="5277" started-at="2018-04-09T23:02:02Z" finished-at="2018-04-09T23:02:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test1_Login()[pri:1, instance:bradytest.Shopping@21a06946]" name="test1_Login" duration-ms="6277" started-at="2018-04-09T23:02:07Z" finished-at="2018-04-09T23:02:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1_Login -->
+        <test-method status="PASS" signature="test2_Account()[pri:2, instance:bradytest.Shopping@21a06946]" name="test2_Account" duration-ms="79" started-at="2018-04-09T23:02:14Z" finished-at="2018-04-09T23:02:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2_Account -->
+        <test-method status="PASS" signature="test3_Confirm()[pri:3, instance:bradytest.Shopping@21a06946]" name="test3_Confirm" duration-ms="984" started-at="2018-04-09T23:02:14Z" finished-at="2018-04-09T23:02:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3_Confirm -->
+        <test-method status="PASS" signature="test4_CartEmpty()[pri:4, instance:bradytest.Shopping@21a06946]" name="test4_CartEmpty" duration-ms="985" started-at="2018-04-09T23:02:15Z" finished-at="2018-04-09T23:02:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4_CartEmpty -->
+        <test-method status="PASS" signature="test5_Women()[pri:5, instance:bradytest.Shopping@21a06946]" name="test5_Women" duration-ms="1514" started-at="2018-04-09T23:02:16Z" finished-at="2018-04-09T23:02:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5_Women -->
+        <test-method status="PASS" signature="test6_SelPink()[pri:6, instance:bradytest.Shopping@21a06946]" name="test6_SelPink" duration-ms="155" started-at="2018-04-09T23:02:17Z" finished-at="2018-04-09T23:02:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6_SelPink -->
+        <test-method status="PASS" signature="test7_AddtoCart()[pri:7, instance:bradytest.Shopping@21a06946]" name="test7_AddtoCart" duration-ms="4569" started-at="2018-04-09T23:02:18Z" finished-at="2018-04-09T23:02:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7_AddtoCart -->
+        <test-method status="PASS" signature="test8_Successful()[pri:8, instance:bradytest.Shopping@21a06946]" name="test8_Successful" duration-ms="5063" started-at="2018-04-09T23:02:22Z" finished-at="2018-04-09T23:02:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8_Successful -->
+        <test-method status="PASS" signature="test9_Cart1()[pri:9, instance:bradytest.Shopping@21a06946]" name="test9_Cart1" duration-ms="4285" started-at="2018-04-09T23:02:27Z" finished-at="2018-04-09T23:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9_Cart1 -->
+        <test-method status="PASS" signature="test910_Allsp()[pri:10, instance:bradytest.Shopping@21a06946]" name="test910_Allsp" duration-ms="5545" started-at="2018-04-09T23:02:31Z" finished-at="2018-04-09T23:02:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test910_Allsp -->
+        <test-method status="PASS" signature="test911_CnfList()[pri:11, instance:bradytest.Shopping@21a06946]" name="test911_CnfList" duration-ms="20735" started-at="2018-04-09T23:02:37Z" finished-at="2018-04-09T23:02:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test911_CnfList -->
+        <test-method status="PASS" signature="test912_Cnfcart()[pri:12, instance:bradytest.Shopping@21a06946]" name="test912_Cnfcart" duration-ms="1191" started-at="2018-04-09T23:02:58Z" finished-at="2018-04-09T23:02:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test912_Cnfcart -->
+        <test-method status="PASS" signature="test913_Discount()[pri:13, instance:bradytest.Shopping@21a06946]" name="test913_Discount" duration-ms="873" started-at="2018-04-09T23:02:59Z" finished-at="2018-04-09T23:03:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test913_Discount -->
+        <test-method status="PASS" signature="test914_Dresses()[pri:14, instance:bradytest.Shopping@21a06946]" name="test914_Dresses" duration-ms="1220" started-at="2018-04-09T23:03:00Z" finished-at="2018-04-09T23:03:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test914_Dresses -->
+        <test-method status="PASS" signature="test915_CnfDrs()[pri:15, instance:bradytest.Shopping@21a06946]" name="test915_CnfDrs" duration-ms="83" started-at="2018-04-09T23:03:01Z" finished-at="2018-04-09T23:03:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test915_CnfDrs -->
+        <test-method status="PASS" signature="test916_Sort()[pri:16, instance:bradytest.Shopping@21a06946]" name="test916_Sort" duration-ms="935" started-at="2018-04-09T23:03:01Z" finished-at="2018-04-09T23:03:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test916_Sort -->
+        <test-method status="PASS" signature="close()[pri:0, instance:bradytest.Shopping@21a06946]" name="close" is-config="true" duration-ms="1336" started-at="2018-04-09T23:03:02Z" finished-at="2018-04-09T23:03:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- bradytest.Shopping -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
